@@ -1,0 +1,14 @@
+{
+    "charactes" : [
+        {
+            "name": "Tara",
+            "planet": "Earth",
+            "lightsaber": "Yellow"
+        }, 
+        {
+            "name": "Ben",
+            "planet": "Earth",
+            "lightsaber": "Red"
+        }
+    ]
+}
